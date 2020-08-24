@@ -22,21 +22,20 @@ To have a better understanding about the benefits of these tools, following is a
 
 ## Examples
 ### dasher.py
-![](img_src/dasher.png)
-![picture](img_src/dasher2.png)
+![](img_src/dasher.PNG)
+![](img_src/dasher2.PNG)
 
 ### tabler.py
-![picture](img_src/tabler.png)
+![](img_src/tabler.PNG)
 
 ### technique_analytics.py
-![picture](img_src/technique_analytics.png)
+![](img_src/technique_analytics.PNG)
 
 ### all_things_To_csv.py
-![picture](img_src/all_things_to_csv.png)
+![](img_src/all_things_to_csv.PNG)
 
 ### times_detected.py
-![picture](img_src/times_detected.png)
+![](img_src/times_detected.PNG)
 
 ### updater.py
-![picture](img_src/updater.png)
-
+![](img_src/updater.PNG)
