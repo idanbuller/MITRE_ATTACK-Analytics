@@ -22,47 +22,21 @@ To have a better understanding about the benefits of these tools, following is a
 
 ## Examples
 ### dasher.py
-![picture](POC.png)
-![picture](POC.png)
-![picture](POC.png)
+![picture](img_src/dasher.png)
+![picture](img_src/dasher2.png)
 
 ### tabler.py
-![picture](POC.png)
-![picture](POC.png)
-![picture](POC.png)
+![picture](img_src/tabler.png)
 
 ### technique_analytics.py
-![picture](POC.png)
-![picture](POC.png)
-![picture](POC.png)
+![picture](img_src/technique_analytics.png)
 
 ### all_things_To_csv.py
-![picture](POC.png)
-![picture](POC.png)
-![picture](POC.png)
+![picture](img_src/all_things_to_csv.png)
 
 ### times_detected.py
-![picture](POC.png)
-![picture](POC.png)
-![picture](POC.png)
+![picture](img_src/times_detected.png)
 
 ### updater.py
-![picture](POC.png)
-![picture](POC.png)
-![picture](POC.png)
+![picture](img_src/updater.png)
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
