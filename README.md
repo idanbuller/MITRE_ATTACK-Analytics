@@ -22,7 +22,7 @@ To have a better understanding about the benefits of these tools, following is a
 
 ## Examples
 ### dasher.py
-![picture](img_src/dasher.png)
+![](img_src/dasher.png)
 ![picture](img_src/dasher2.png)
 
 ### tabler.py
