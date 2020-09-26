@@ -3,7 +3,7 @@
 
 This repository contains the following Groups, Techniques, Malwares and Tools with the help of:
 
-* **dasher:** Dash app that runs on local laptop or workstation and provide ML based Data Analytcs abpust multiple data provided by MITRE™ ATT&CK™.  
+* **dasher:** Dash app that runs on local laptop or workstation and provide ML based Data Analytcs about multiple data provided by MITRE™ ATT&CK™.  
 
 * **tabler:** All relevant data about Groups, Techniques, Malwares and Tools via Pretty table.
 
